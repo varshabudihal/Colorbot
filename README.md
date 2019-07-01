@@ -5,3 +5,5 @@ Colorbot is a RNN model that receives a word (sequence of characters) as input a
 
 ## In order for you to run the notebook, you have to download the raw data set:
 https://raw.githubusercontent.com/random-forests/datasets/master/colors.csv
+
+For this assignment, I used google colab as an environment to run the code.
